@@ -1,0 +1,27 @@
+{
+  "name": "baby-romeo",
+  "version": "1.0.0",
+  "description": "music bot for discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xr0meo/baby-romeo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xr0meo/baby-romeo/issues"
+  },
+  "homepage": "https://github.com/xr0meo/baby-romeo#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "discord.js-musicbot-addon": "^13.9.1",
+    "dotenv": "^8.2.0",
+    "node-gyp": "^7.1.2",
+    "node-opus": "^0.3.3",
+    "rebuild": "^0.1.2"
+  }
+}
